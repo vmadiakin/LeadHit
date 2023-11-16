@@ -1,0 +1,5 @@
+{"_default": {
+  "1": {"name": "User Registration Form", "user_name": "text", "email": "email", "phone_number": "phone", "birth_date": "date"},
+  "2": {"name": "Order Form", "product_name": "text", "quantity": "text", "customer_name": "text", "customer_email": "email", "customer_phone": "phone"},
+  "3": {"name": "Feedback Form", "sender_name": "text", "sender_email": "email", "message": "text"},
+  "4": {"name": "Event Registration Form", "event_name": "text", "event_date": "date", "participant_name": "text", "participant_email": "email", "participant_phone": "phone"}}}
